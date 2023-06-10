@@ -1,13 +1,8 @@
 ## Barangay Online System (Dynamic)
-
-### Barangay Source Code at  [Barangay Online System Repository](https://github.com/vonypeto/barangay)
  
 This system require a list of program to function and run on the local device
 .
 
-## Installation for local server
-
-### Requirement:
 
 1. Download the software composer from this [composer](https://getcomposer.org/download/) and git bash from this [git](https://git-scm.com/downloads) choose the appropriate OS
 
@@ -62,13 +57,6 @@ note: Xampp mysql service must be running
 4. Visit the link provided by the terminal such as `127.0.0.1:8000`  
 note: to run the website on localhost for developing testing just run this on the terminal where the code is `php artisan serve`
 
-To access the Server Side panel we provided a seed generated account
-
-    ```
-    Username: giann@gmail.com
-    Password: giann
-    Usertype: Admin
-    ```	
 
 ## Advanced details
 
